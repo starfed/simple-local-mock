@@ -1,0 +1,19 @@
+{
+  "name": "local-mock",
+  "version": "0.1.0",
+  "description": "一个简单、易用的本地mock开发服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "local-mock": "./bin/start.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "luobo-mock-middleware": "^1.0.2",
+    "yargs": "^16.2.0"
+  }
+}
