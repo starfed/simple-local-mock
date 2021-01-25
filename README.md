@@ -21,7 +21,7 @@ module.exports = {
 3. 在项目 package.json 中添加 scripts
 
 ```js
-"mock":"local-mock --port=${custom port,default 8786}"
+"mock":"simple-local-mock --port=${custom port,default 8786}"
 ```
 
 4. 执行 npm run mock

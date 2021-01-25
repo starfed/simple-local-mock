@@ -1,15 +1,20 @@
 {
-  "name": "local-mock",
+  "name": "simple-local-mock",
   "version": "0.1.0",
   "description": "一个简单、易用的本地mock开发服务器",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "bin": {
-    "local-mock": "./bin/start.js"
+    "simple-local-mock": "./bin/start.js"
   },
-  "author": "",
+  "author": "zhanghaoxu",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starfed/local-mock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/starfed/local-mock/issues"
+  },
+  "homepage": "https://github.com/starfed/local-mock#readme",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",

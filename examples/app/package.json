@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "local-mock测试",
+  "main": "index.js",
+  "scripts": {
+    "mock": "local-mock --port=8888"
+  },
+  "author": "",
+  "license": "ISC"
+}
