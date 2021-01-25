@@ -6,7 +6,7 @@ npm i local-mock --save-dev
 
 ## 项目中使用
 
-1. 项目根目录建立 mock 文件夹
+1. 项目根目录建立 mock 文件夹 注意！ 如果没有此文件夹会报-4058 的错误
 
 2. 进入 mock 文件夹 建立测试 mock 文件 test.js
 
