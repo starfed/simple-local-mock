@@ -9,12 +9,12 @@
   "author": "zhanghaoxu",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/starfed/local-mock.git"
+    "url": "git+https://github.com/starfed/simple-local-mock.git"
   },
   "bugs": {
-    "url": "https://github.com/starfed/local-mock/issues"
+    "url": "https://github.com/starfed/simple-local-mock/issues"
   },
-  "homepage": "https://github.com/starfed/local-mock#readme",
+  "homepage": "https://github.com/starfed/simple-local-mock#readme",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",

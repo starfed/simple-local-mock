@@ -2,7 +2,7 @@
 
 ## 安装
 
-npm i local-mock --save-dev
+npm i simple-local-mock --save-dev
 
 ## 项目中使用
 
