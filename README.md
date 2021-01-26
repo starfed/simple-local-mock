@@ -1,4 +1,4 @@
-# local-mock 一个简单易用的前端 mock 服务器
+# simple-local-mock 一个简单易用的前端 mock 服务器
 
 ## 安装
 
