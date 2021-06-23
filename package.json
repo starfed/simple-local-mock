@@ -1,6 +1,6 @@
 {
   "name": "simple-local-mock",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "一个简单、易用的本地mock开发服务器",
   "main": "index.js",
   "bin": {
